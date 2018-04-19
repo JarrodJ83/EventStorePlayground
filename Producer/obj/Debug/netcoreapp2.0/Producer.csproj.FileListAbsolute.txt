@@ -1,0 +1,10 @@
+C:\github\EventDrivenArchitecture\Producer\bin\Debug\netcoreapp2.0\Producer.deps.json
+C:\github\EventDrivenArchitecture\Producer\bin\Debug\netcoreapp2.0\Producer.runtimeconfig.json
+C:\github\EventDrivenArchitecture\Producer\bin\Debug\netcoreapp2.0\Producer.runtimeconfig.dev.json
+C:\github\EventDrivenArchitecture\Producer\bin\Debug\netcoreapp2.0\Producer.dll
+C:\github\EventDrivenArchitecture\Producer\bin\Debug\netcoreapp2.0\Producer.pdb
+C:\github\EventDrivenArchitecture\Producer\obj\Debug\netcoreapp2.0\Producer.csproj.CoreCompileInputs.cache
+C:\github\EventDrivenArchitecture\Producer\obj\Debug\netcoreapp2.0\Producer.AssemblyInfoInputs.cache
+C:\github\EventDrivenArchitecture\Producer\obj\Debug\netcoreapp2.0\Producer.AssemblyInfo.cs
+C:\github\EventDrivenArchitecture\Producer\obj\Debug\netcoreapp2.0\Producer.dll
+C:\github\EventDrivenArchitecture\Producer\obj\Debug\netcoreapp2.0\Producer.pdb

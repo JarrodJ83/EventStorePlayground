@@ -1,0 +1,13 @@
+C:\github\EventDrivenArchitecture\Consumer\bin\Debug\netcoreapp2.0\Consumer.deps.json
+C:\github\EventDrivenArchitecture\Consumer\bin\Debug\netcoreapp2.0\Consumer.runtimeconfig.json
+C:\github\EventDrivenArchitecture\Consumer\bin\Debug\netcoreapp2.0\Consumer.runtimeconfig.dev.json
+C:\github\EventDrivenArchitecture\Consumer\bin\Debug\netcoreapp2.0\Consumer.dll
+C:\github\EventDrivenArchitecture\Consumer\bin\Debug\netcoreapp2.0\Consumer.pdb
+C:\github\EventDrivenArchitecture\Consumer\obj\Debug\netcoreapp2.0\Consumer.csproj.CoreCompileInputs.cache
+C:\github\EventDrivenArchitecture\Consumer\obj\Debug\netcoreapp2.0\Consumer.AssemblyInfoInputs.cache
+C:\github\EventDrivenArchitecture\Consumer\obj\Debug\netcoreapp2.0\Consumer.AssemblyInfo.cs
+C:\github\EventDrivenArchitecture\Consumer\obj\Debug\netcoreapp2.0\Consumer.dll
+C:\github\EventDrivenArchitecture\Consumer\obj\Debug\netcoreapp2.0\Consumer.pdb
+C:\github\EventDrivenArchitecture\Consumer\bin\Debug\netcoreapp2.0\Producer.dll
+C:\github\EventDrivenArchitecture\Consumer\bin\Debug\netcoreapp2.0\Producer.pdb
+C:\github\EventDrivenArchitecture\Consumer\obj\Debug\netcoreapp2.0\Consumer.csproj.CopyComplete
